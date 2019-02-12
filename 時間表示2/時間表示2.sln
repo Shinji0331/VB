@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "時間表示2", "時間表示2\時間表示2.vbproj", "{3EC9CC4E-3830-42B1-BB9E-9819CD248DE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC9CC4E-3830-42B1-BB9E-9819CD248DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC9CC4E-3830-42B1-BB9E-9819CD248DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC9CC4E-3830-42B1-BB9E-9819CD248DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC9CC4E-3830-42B1-BB9E-9819CD248DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60CDC24F-E0D0-43CD-A989-4990AD5DF554}
+	EndGlobalSection
+EndGlobal

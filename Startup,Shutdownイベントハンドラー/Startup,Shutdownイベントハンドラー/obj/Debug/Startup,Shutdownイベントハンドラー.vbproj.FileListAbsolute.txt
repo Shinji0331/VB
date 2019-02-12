@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\bin\Debug\Startup,Shutdownイベントハンドラー.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\bin\Debug\Startup,Shutdownイベントハンドラー.exe
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\bin\Debug\Startup,Shutdownイベントハンドラー.pdb
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\bin\Debug\Startup,Shutdownイベントハンドラー.xml
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\obj\Debug\Startup_Shutdownイベントハンドラー.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\obj\Debug\Startup_Shutdownイベントハンドラー.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\obj\Debug\Startup,Shutdownイベントハンドラー.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\obj\Debug\Startup,Shutdownイベントハンドラー.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\obj\Debug\Startup,Shutdownイベントハンドラー.exe
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\obj\Debug\Startup,Shutdownイベントハンドラー.xml
+C:\Users\study\AppData\Local\Temporary Projects\Startup,Shutdownイベントハンドラー\obj\Debug\Startup,Shutdownイベントハンドラー.pdb

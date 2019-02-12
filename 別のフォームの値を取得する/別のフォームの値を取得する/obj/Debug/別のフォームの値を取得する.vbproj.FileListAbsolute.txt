@@ -1,0 +1,25 @@
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\bin\Debug\別のフォームの値を取得する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\bin\Debug\別のフォームの値を取得する.exe
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\bin\Debug\別のフォームの値を取得する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\bin\Debug\別のフォームの値を取得する.xml
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.Form2.resources
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.exe
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.xml
+C:\Users\study\AppData\Local\Temporary Projects\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.pdb
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\bin\Debug\別のフォームの値を取得する.exe.config
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\bin\Debug\別のフォームの値を取得する.exe
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\bin\Debug\別のフォームの値を取得する.pdb
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\bin\Debug\別のフォームの値を取得する.xml
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.vbprojAssemblyReference.cache
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.Form1.resources
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.Form2.resources
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.Resources.resources
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.vbproj.GenerateResource.cache
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.vbproj.CoreCompileInputs.cache
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.exe
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.xml
+C:\Users\study\Desktop\VB.net\別のフォームの値を取得する\別のフォームの値を取得する\obj\Debug\別のフォームの値を取得する.pdb

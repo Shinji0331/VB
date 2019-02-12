@@ -1,0 +1,14 @@
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\bin\Debug\情報ボックスを使う.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\bin\Debug\情報ボックスを使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\bin\Debug\情報ボックスを使う.pdb
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\bin\Debug\情報ボックスを使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.AboutBox1.resources
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.pdb
+C:\Users\study\AppData\Local\Temporary Projects\情報ボックスを使う\obj\Debug\情報ボックスを使う.SplashScreen1.resources

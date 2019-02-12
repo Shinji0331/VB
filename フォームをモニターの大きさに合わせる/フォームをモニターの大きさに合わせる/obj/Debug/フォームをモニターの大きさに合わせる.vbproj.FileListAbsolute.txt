@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\obj\Debug\フォームをモニターの大きさに合わせる.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\obj\Debug\フォームをモニターの大きさに合わせる.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\obj\Debug\フォームをモニターの大きさに合わせる.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\obj\Debug\フォームをモニターの大きさに合わせる.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\obj\Debug\フォームをモニターの大きさに合わせる.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\bin\Debug\フォームをモニターの大きさに合わせる.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\bin\Debug\フォームをモニターの大きさに合わせる.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\bin\Debug\フォームをモニターの大きさに合わせる.pdb
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\bin\Debug\フォームをモニターの大きさに合わせる.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\obj\Debug\フォームをモニターの大きさに合わせる.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\obj\Debug\フォームをモニターの大きさに合わせる.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォームをモニターの大きさに合わせる\obj\Debug\フォームをモニターの大きさに合わせる.pdb

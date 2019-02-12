@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\bin\Debug\テキスト追加ボタン.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\bin\Debug\テキスト追加ボタン.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\bin\Debug\テキスト追加ボタン.pdb
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\bin\Debug\テキスト追加ボタン.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\obj\Debug\テキスト追加ボタン.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\obj\Debug\テキスト追加ボタン.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\obj\Debug\テキスト追加ボタン.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\obj\Debug\テキスト追加ボタン.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\obj\Debug\テキスト追加ボタン.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\obj\Debug\テキスト追加ボタン.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\obj\Debug\テキスト追加ボタン.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキスト追加ボタン\obj\Debug\テキスト追加ボタン.pdb

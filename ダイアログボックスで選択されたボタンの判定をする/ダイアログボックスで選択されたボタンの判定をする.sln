@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ダイアログボックスで選択されたボタンの判定をする", "ダイアログボックスで選択されたボタンの判定をする\ダイアログボックスで選択されたボタンの判定をする.vbproj", "{23E1C34F-53BA-48FC-A7A6-5535B4CC9892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E1C34F-53BA-48FC-A7A6-5535B4CC9892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E1C34F-53BA-48FC-A7A6-5535B4CC9892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E1C34F-53BA-48FC-A7A6-5535B4CC9892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E1C34F-53BA-48FC-A7A6-5535B4CC9892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6AE9A80-3405-4826-8D8C-68A48B306789}
+	EndGlobalSection
+EndGlobal

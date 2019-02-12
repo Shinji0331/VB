@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\bin\Debug\時間表示2.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\bin\Debug\時間表示2.exe
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\bin\Debug\時間表示2.pdb
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\bin\Debug\時間表示2.xml
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\obj\Debug\時間表示2.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\obj\Debug\時間表示2.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\obj\Debug\時間表示2.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\obj\Debug\時間表示2.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\obj\Debug\時間表示2.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\obj\Debug\時間表示2.exe
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\obj\Debug\時間表示2.xml
+C:\Users\study\AppData\Local\Temporary Projects\時間表示2\obj\Debug\時間表示2.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "最小・最大ボタンを非表示に", "最小・最大ボタンを非表示に\最小・最大ボタンを非表示に.vbproj", "{91E7A9B2-D372-49AE-8AB6-001ADF1B3647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E7A9B2-D372-49AE-8AB6-001ADF1B3647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E7A9B2-D372-49AE-8AB6-001ADF1B3647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E7A9B2-D372-49AE-8AB6-001ADF1B3647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E7A9B2-D372-49AE-8AB6-001ADF1B3647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36AB93D5-D43A-4526-A8EC-4FBF203ACA85}
+	EndGlobalSection
+EndGlobal
