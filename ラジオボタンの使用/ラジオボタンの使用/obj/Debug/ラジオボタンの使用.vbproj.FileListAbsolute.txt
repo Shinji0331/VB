@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\bin\Debug\ラジオボタンの使用.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\bin\Debug\ラジオボタンの使用.exe
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\bin\Debug\ラジオボタンの使用.pdb
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\bin\Debug\ラジオボタンの使用.xml
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\obj\Debug\ラジオボタンの使用.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\obj\Debug\ラジオボタンの使用.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\obj\Debug\ラジオボタンの使用.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\obj\Debug\ラジオボタンの使用.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\obj\Debug\ラジオボタンの使用.exe
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\obj\Debug\ラジオボタンの使用.xml
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンの使用\obj\Debug\ラジオボタンの使用.pdb

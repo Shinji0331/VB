@@ -1,0 +1,13 @@
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\bin\Debug\リンクラベルで別フォームにリンクする.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\bin\Debug\リンクラベルで別フォームにリンクする.exe
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\bin\Debug\リンクラベルで別フォームにリンクする.pdb
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\bin\Debug\リンクラベルで別フォームにリンクする.xml
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\obj\Debug\リンクラベルで別フォームにリンクする.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\obj\Debug\リンクラベルで別フォームにリンクする.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\obj\Debug\リンクラベルで別フォームにリンクする.Form2.resources
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\obj\Debug\リンクラベルで別フォームにリンクする.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\obj\Debug\リンクラベルで別フォームにリンクする.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\obj\Debug\リンクラベルで別フォームにリンクする.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\obj\Debug\リンクラベルで別フォームにリンクする.exe
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\obj\Debug\リンクラベルで別フォームにリンクする.xml
+C:\Users\study\AppData\Local\Temporary Projects\リンクラベルで別フォームにリンクする\obj\Debug\リンクラベルで別フォームにリンクする.pdb

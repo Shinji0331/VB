@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\bin\Debug\入力文字の種類を指定する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\bin\Debug\入力文字の種類を指定する.exe
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\bin\Debug\入力文字の種類を指定する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\bin\Debug\入力文字の種類を指定する.xml
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\obj\Debug\入力文字の種類を指定する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\obj\Debug\入力文字の種類を指定する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\obj\Debug\入力文字の種類を指定する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\obj\Debug\入力文字の種類を指定する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\obj\Debug\入力文字の種類を指定する.exe
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\obj\Debug\入力文字の種類を指定する.xml
+C:\Users\study\AppData\Local\Temporary Projects\入力文字の種類を指定する\obj\Debug\入力文字の種類を指定する.pdb

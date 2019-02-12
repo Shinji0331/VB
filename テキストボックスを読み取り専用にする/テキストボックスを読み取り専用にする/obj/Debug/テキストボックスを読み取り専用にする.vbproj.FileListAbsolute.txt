@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\bin\Debug\テキストボックスを読み取り専用にする.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\bin\Debug\テキストボックスを読み取り専用にする.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\bin\Debug\テキストボックスを読み取り専用にする.pdb
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\bin\Debug\テキストボックスを読み取り専用にする.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\obj\Debug\テキストボックスを読み取り専用にする.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\obj\Debug\テキストボックスを読み取り専用にする.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\obj\Debug\テキストボックスを読み取り専用にする.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\obj\Debug\テキストボックスを読み取り専用にする.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\obj\Debug\テキストボックスを読み取り専用にする.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\obj\Debug\テキストボックスを読み取り専用にする.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスを読み取り専用にする\obj\Debug\テキストボックスを読み取り専用にする.pdb

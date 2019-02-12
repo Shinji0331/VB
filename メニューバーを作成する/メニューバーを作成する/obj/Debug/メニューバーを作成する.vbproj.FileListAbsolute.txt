@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\bin\Debug\メニューバーを作成する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\bin\Debug\メニューバーを作成する.exe
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\bin\Debug\メニューバーを作成する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\bin\Debug\メニューバーを作成する.xml
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\obj\Debug\メニューバーを作成する.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\obj\Debug\メニューバーを作成する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\obj\Debug\メニューバーを作成する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\obj\Debug\メニューバーを作成する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\obj\Debug\メニューバーを作成する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\obj\Debug\メニューバーを作成する.exe
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\obj\Debug\メニューバーを作成する.xml
+C:\Users\study\AppData\Local\Temporary Projects\メニューバーを作成する\obj\Debug\メニューバーを作成する.pdb

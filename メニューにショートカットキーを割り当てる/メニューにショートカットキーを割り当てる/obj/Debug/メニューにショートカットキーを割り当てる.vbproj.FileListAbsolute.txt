@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\bin\Debug\メニューにショートカットキーを割り当てる.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\bin\Debug\メニューにショートカットキーを割り当てる.exe
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\bin\Debug\メニューにショートカットキーを割り当てる.pdb
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\bin\Debug\メニューにショートカットキーを割り当てる.xml
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\obj\Debug\メニューにショートカットキーを割り当てる.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\obj\Debug\メニューにショートカットキーを割り当てる.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\obj\Debug\メニューにショートカットキーを割り当てる.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\obj\Debug\メニューにショートカットキーを割り当てる.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\obj\Debug\メニューにショートカットキーを割り当てる.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\obj\Debug\メニューにショートカットキーを割り当てる.exe
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\obj\Debug\メニューにショートカットキーを割り当てる.xml
+C:\Users\study\AppData\Local\Temporary Projects\メニューにショートカットキーを割り当てる\obj\Debug\メニューにショートカットキーを割り当てる.pdb

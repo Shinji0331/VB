@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\bin\Debug\メニューコマンドを無効にする.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\bin\Debug\メニューコマンドを無効にする.exe
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\bin\Debug\メニューコマンドを無効にする.pdb
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\bin\Debug\メニューコマンドを無効にする.xml
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\obj\Debug\メニューコマンドを無効にする.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\obj\Debug\メニューコマンドを無効にする.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\obj\Debug\メニューコマンドを無効にする.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\obj\Debug\メニューコマンドを無効にする.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\obj\Debug\メニューコマンドを無効にする.exe
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\obj\Debug\メニューコマンドを無効にする.xml
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドを無効にする\obj\Debug\メニューコマンドを無効にする.pdb

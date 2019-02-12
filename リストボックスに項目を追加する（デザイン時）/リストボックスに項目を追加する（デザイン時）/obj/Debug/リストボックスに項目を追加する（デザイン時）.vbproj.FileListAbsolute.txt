@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\bin\Debug\リストボックスに項目を追加する（デザイン時）.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\bin\Debug\リストボックスに項目を追加する（デザイン時）.exe
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\bin\Debug\リストボックスに項目を追加する（デザイン時）.pdb
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\bin\Debug\リストボックスに項目を追加する（デザイン時）.xml
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\obj\Debug\リストボックスに項目を追加する_デザイン時_.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\obj\Debug\リストボックスに項目を追加する_デザイン時_.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\obj\Debug\リストボックスに項目を追加する（デザイン時）.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\obj\Debug\リストボックスに項目を追加する（デザイン時）.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\obj\Debug\リストボックスに項目を追加する（デザイン時）.exe
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\obj\Debug\リストボックスに項目を追加する（デザイン時）.xml
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスに項目を追加する（デザイン時）\obj\Debug\リストボックスに項目を追加する（デザイン時）.pdb

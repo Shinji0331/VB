@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\bin\Debug\メニューコマンドにチェックマークを付ける.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\bin\Debug\メニューコマンドにチェックマークを付ける.exe
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\bin\Debug\メニューコマンドにチェックマークを付ける.pdb
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\bin\Debug\メニューコマンドにチェックマークを付ける.xml
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\obj\Debug\メニューコマンドにチェックマークを付ける.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\obj\Debug\メニューコマンドにチェックマークを付ける.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\obj\Debug\メニューコマンドにチェックマークを付ける.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\obj\Debug\メニューコマンドにチェックマークを付ける.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\obj\Debug\メニューコマンドにチェックマークを付ける.exe
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\obj\Debug\メニューコマンドにチェックマークを付ける.xml
+C:\Users\study\AppData\Local\Temporary Projects\メニューコマンドにチェックマークを付ける\obj\Debug\メニューコマンドにチェックマークを付ける.pdb

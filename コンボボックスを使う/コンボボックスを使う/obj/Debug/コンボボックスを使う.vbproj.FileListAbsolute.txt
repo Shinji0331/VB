@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\bin\Debug\コンボボックスを使う.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\bin\Debug\コンボボックスを使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\bin\Debug\コンボボックスを使う.pdb
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\bin\Debug\コンボボックスを使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\obj\Debug\コンボボックスを使う.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\obj\Debug\コンボボックスを使う.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\obj\Debug\コンボボックスを使う.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\obj\Debug\コンボボックスを使う.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\obj\Debug\コンボボックスを使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\obj\Debug\コンボボックスを使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\コンボボックスを使う\obj\Debug\コンボボックスを使う.pdb

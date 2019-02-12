@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "パスワードを入力する", "パスワードを入力する\パスワードを入力する.vbproj", "{EFD47159-A071-46EB-978F-16F29B46F804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD47159-A071-46EB-978F-16F29B46F804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD47159-A071-46EB-978F-16F29B46F804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD47159-A071-46EB-978F-16F29B46F804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD47159-A071-46EB-978F-16F29B46F804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBEFAE1F-C8DB-403F-BF9C-D6ADA4DD90A4}
+	EndGlobalSection
+EndGlobal

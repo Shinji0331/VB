@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\bin\Debug\ショートカットメニューを付ける.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\bin\Debug\ショートカットメニューを付ける.exe
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\bin\Debug\ショートカットメニューを付ける.pdb
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\bin\Debug\ショートカットメニューを付ける.xml
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\obj\Debug\ショートカットメニューを付ける.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\obj\Debug\ショートカットメニューを付ける.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\obj\Debug\ショートカットメニューを付ける.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\obj\Debug\ショートカットメニューを付ける.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\obj\Debug\ショートカットメニューを付ける.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\obj\Debug\ショートカットメニューを付ける.exe
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\obj\Debug\ショートカットメニューを付ける.xml
+C:\Users\study\AppData\Local\Temporary Projects\ショートカットメニューを付ける\obj\Debug\ショートカットメニューを付ける.pdb

@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\bin\Debug\テキストボックスに指定形式でデータ入力する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\bin\Debug\テキストボックスに指定形式でデータ入力する.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\bin\Debug\テキストボックスに指定形式でデータ入力する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\bin\Debug\テキストボックスに指定形式でデータ入力する.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\obj\Debug\テキストボックスに指定形式でデータ入力する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\obj\Debug\テキストボックスに指定形式でデータ入力する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\obj\Debug\テキストボックスに指定形式でデータ入力する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\obj\Debug\テキストボックスに指定形式でデータ入力する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\obj\Debug\テキストボックスに指定形式でデータ入力する.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\obj\Debug\テキストボックスに指定形式でデータ入力する.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキストボックスに指定形式でデータ入力する\obj\Debug\テキストボックスに指定形式でデータ入力する.pdb

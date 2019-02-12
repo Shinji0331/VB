@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "テキストボックスを読み取り専用にする", "テキストボックスを読み取り専用にする\テキストボックスを読み取り専用にする.vbproj", "{7067BFF5-386B-4E51-895B-0BCF454183C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7067BFF5-386B-4E51-895B-0BCF454183C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7067BFF5-386B-4E51-895B-0BCF454183C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7067BFF5-386B-4E51-895B-0BCF454183C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7067BFF5-386B-4E51-895B-0BCF454183C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {401F22DA-4770-4664-B54C-DF30D5068EB0}
+	EndGlobalSection
+EndGlobal

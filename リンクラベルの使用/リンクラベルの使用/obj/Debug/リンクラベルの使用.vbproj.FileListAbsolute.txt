@@ -1,0 +1,12 @@
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\obj\Debug\リンクラベルの使用.vbprojAssemblyReference.cache
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\obj\Debug\リンクラベルの使用.Form1.resources
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\obj\Debug\リンクラベルの使用.Resources.resources
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\obj\Debug\リンクラベルの使用.vbproj.GenerateResource.cache
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\obj\Debug\リンクラベルの使用.vbproj.CoreCompileInputs.cache
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\bin\Debug\リンクラベルの使用.exe.config
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\bin\Debug\リンクラベルの使用.exe
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\bin\Debug\リンクラベルの使用.pdb
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\bin\Debug\リンクラベルの使用.xml
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\obj\Debug\リンクラベルの使用.exe
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\obj\Debug\リンクラベルの使用.xml
+C:\Users\study\Desktop\VB\リンクラベルの使用\リンクラベルの使用\obj\Debug\リンクラベルの使用.pdb

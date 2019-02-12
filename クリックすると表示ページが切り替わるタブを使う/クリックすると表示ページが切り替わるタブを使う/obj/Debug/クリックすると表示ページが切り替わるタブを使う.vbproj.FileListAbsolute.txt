@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\bin\Debug\クリックすると表示ページが切り替わるタブを使う.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\bin\Debug\クリックすると表示ページが切り替わるタブを使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\bin\Debug\クリックすると表示ページが切り替わるタブを使う.pdb
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\bin\Debug\クリックすると表示ページが切り替わるタブを使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\obj\Debug\クリックすると表示ページが切り替わるタブを使う.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\obj\Debug\クリックすると表示ページが切り替わるタブを使う.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\obj\Debug\クリックすると表示ページが切り替わるタブを使う.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\obj\Debug\クリックすると表示ページが切り替わるタブを使う.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\obj\Debug\クリックすると表示ページが切り替わるタブを使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\obj\Debug\クリックすると表示ページが切り替わるタブを使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\クリックすると表示ページが切り替わるタブを使う\obj\Debug\クリックすると表示ページが切り替わるタブを使う.pdb

@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\bin\Debug\Buttonコントロールの使用.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\bin\Debug\Buttonコントロールの使用.exe
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\bin\Debug\Buttonコントロールの使用.pdb
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\bin\Debug\Buttonコントロールの使用.xml
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\obj\Debug\Buttonコントロールの使用.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\obj\Debug\Buttonコントロールの使用.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\obj\Debug\Buttonコントロールの使用.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\obj\Debug\Buttonコントロールの使用.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\obj\Debug\Buttonコントロールの使用.exe
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\obj\Debug\Buttonコントロールの使用.xml
+C:\Users\study\AppData\Local\Temporary Projects\Buttonコントロールの使用\obj\Debug\Buttonコントロールの使用.pdb

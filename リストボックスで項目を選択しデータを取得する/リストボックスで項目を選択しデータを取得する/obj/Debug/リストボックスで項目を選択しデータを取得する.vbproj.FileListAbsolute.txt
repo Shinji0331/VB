@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\bin\Debug\リストボックスで項目を選択しデータを取得する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\bin\Debug\リストボックスで項目を選択しデータを取得する.exe
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\bin\Debug\リストボックスで項目を選択しデータを取得する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\bin\Debug\リストボックスで項目を選択しデータを取得する.xml
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\obj\Debug\リストボックスで項目を選択しデータを取得する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\obj\Debug\リストボックスで項目を選択しデータを取得する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\obj\Debug\リストボックスで項目を選択しデータを取得する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\obj\Debug\リストボックスで項目を選択しデータを取得する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\obj\Debug\リストボックスで項目を選択しデータを取得する.exe
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\obj\Debug\リストボックスで項目を選択しデータを取得する.xml
+C:\Users\study\AppData\Local\Temporary Projects\リストボックスで項目を選択しデータを取得する\obj\Debug\リストボックスで項目を選択しデータを取得する.pdb

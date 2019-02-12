@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\bin\Debug\入力文字数を制限する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\bin\Debug\入力文字数を制限する.exe
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\bin\Debug\入力文字数を制限する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\bin\Debug\入力文字数を制限する.xml
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\obj\Debug\入力文字数を制限する.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\obj\Debug\入力文字数を制限する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\obj\Debug\入力文字数を制限する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\obj\Debug\入力文字数を制限する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\obj\Debug\入力文字数を制限する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\obj\Debug\入力文字数を制限する.exe
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\obj\Debug\入力文字数を制限する.xml
+C:\Users\study\AppData\Local\Temporary Projects\入力文字数を制限する\obj\Debug\入力文字数を制限する.pdb

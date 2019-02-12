@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ツールバーをドラッグでフォームの四辺に移動可能にする", "ツールバーをドラッグでフォームの四辺に移動可能にする\ツールバーをドラッグでフォームの四辺に移動可能にする.vbproj", "{083930AC-622B-43E0-B8D7-10277933A9B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{083930AC-622B-43E0-B8D7-10277933A9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083930AC-622B-43E0-B8D7-10277933A9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083930AC-622B-43E0-B8D7-10277933A9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083930AC-622B-43E0-B8D7-10277933A9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30CCD8FF-246F-4B85-B223-57EC4CCC01D7}
+	EndGlobalSection
+EndGlobal

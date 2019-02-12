@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\bin\Debug\ラジオボタンをグループごとに選択する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\bin\Debug\ラジオボタンをグループごとに選択する.exe
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\bin\Debug\ラジオボタンをグループごとに選択する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\bin\Debug\ラジオボタンをグループごとに選択する.xml
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\obj\Debug\ラジオボタンをグループごとに選択する.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\obj\Debug\ラジオボタンをグループごとに選択する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\obj\Debug\ラジオボタンをグループごとに選択する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\obj\Debug\ラジオボタンをグループごとに選択する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\obj\Debug\ラジオボタンをグループごとに選択する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\obj\Debug\ラジオボタンをグループごとに選択する.exe
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\obj\Debug\ラジオボタンをグループごとに選択する.xml
+C:\Users\study\AppData\Local\Temporary Projects\ラジオボタンをグループごとに選択する\obj\Debug\ラジオボタンをグループごとに選択する.pdb
