@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\bin\Debug\データ型を変換する②.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\bin\Debug\データ型を変換する②.exe
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\bin\Debug\データ型を変換する②.pdb
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\bin\Debug\データ型を変換する②.xml
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\obj\Debug\データ型を変換する_.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\obj\Debug\データ型を変換する_.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\obj\Debug\データ型を変換する②.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\obj\Debug\データ型を変換する②.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\obj\Debug\データ型を変換する②.exe
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\obj\Debug\データ型を変換する②.xml
+C:\Users\study\AppData\Local\Temporary Projects\データ型を変換する②\obj\Debug\データ型を変換する②.pdb
