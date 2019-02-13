@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\bin\Debug\実行時にコントロールを追加する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\bin\Debug\実行時にコントロールを追加する.exe
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\bin\Debug\実行時にコントロールを追加する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\bin\Debug\実行時にコントロールを追加する.xml
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\obj\Debug\実行時にコントロールを追加する.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\obj\Debug\実行時にコントロールを追加する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\obj\Debug\実行時にコントロールを追加する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\obj\Debug\実行時にコントロールを追加する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\obj\Debug\実行時にコントロールを追加する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\obj\Debug\実行時にコントロールを追加する.exe
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\obj\Debug\実行時にコントロールを追加する.xml
+C:\Users\study\AppData\Local\Temporary Projects\実行時にコントロールを追加する\obj\Debug\実行時にコントロールを追加する.pdb

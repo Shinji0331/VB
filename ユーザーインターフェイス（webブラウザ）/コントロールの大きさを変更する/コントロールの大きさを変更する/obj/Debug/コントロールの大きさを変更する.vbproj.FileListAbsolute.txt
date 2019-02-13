@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\bin\Debug\コントロールの大きさを変更する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\bin\Debug\コントロールの大きさを変更する.exe
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\bin\Debug\コントロールの大きさを変更する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\bin\Debug\コントロールの大きさを変更する.xml
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\obj\Debug\コントロールの大きさを変更する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\obj\Debug\コントロールの大きさを変更する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\obj\Debug\コントロールの大きさを変更する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\obj\Debug\コントロールの大きさを変更する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\obj\Debug\コントロールの大きさを変更する.exe
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\obj\Debug\コントロールの大きさを変更する.xml
+C:\Users\study\AppData\Local\Temporary Projects\コントロールの大きさを変更する\obj\Debug\コントロールの大きさを変更する.pdb

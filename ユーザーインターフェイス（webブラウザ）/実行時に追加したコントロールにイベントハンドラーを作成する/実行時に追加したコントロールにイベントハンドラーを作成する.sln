@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "実行時に追加したコントロールにイベントハンドラーを作成する", "実行時に追加したコントロールにイベントハンドラーを作成する\実行時に追加したコントロールにイベントハンドラーを作成する.vbproj", "{8D4A6F53-D20A-4D65-BA56-B15335830F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D4A6F53-D20A-4D65-BA56-B15335830F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4A6F53-D20A-4D65-BA56-B15335830F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4A6F53-D20A-4D65-BA56-B15335830F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4A6F53-D20A-4D65-BA56-B15335830F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {247140F3-A54F-4B6A-AA89-466A0FA2DB32}
+	EndGlobalSection
+EndGlobal

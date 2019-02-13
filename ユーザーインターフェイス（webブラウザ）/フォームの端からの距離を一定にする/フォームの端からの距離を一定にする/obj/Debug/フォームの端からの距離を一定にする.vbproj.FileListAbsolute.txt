@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\bin\Debug\フォームの端からの距離を一定にする.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\bin\Debug\フォームの端からの距離を一定にする.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\bin\Debug\フォームの端からの距離を一定にする.pdb
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\bin\Debug\フォームの端からの距離を一定にする.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\obj\Debug\フォームの端からの距離を一定にする.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\obj\Debug\フォームの端からの距離を一定にする.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\obj\Debug\フォームの端からの距離を一定にする.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\obj\Debug\フォームの端からの距離を一定にする.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\obj\Debug\フォームの端からの距離を一定にする.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\obj\Debug\フォームの端からの距離を一定にする.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォームの端からの距離を一定にする\obj\Debug\フォームの端からの距離を一定にする.pdb

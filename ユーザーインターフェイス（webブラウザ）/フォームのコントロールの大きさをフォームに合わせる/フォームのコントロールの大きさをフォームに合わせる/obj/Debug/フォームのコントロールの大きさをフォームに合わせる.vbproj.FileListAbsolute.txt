@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\bin\Debug\フォームのコントロールの大きさをフォームに合わせる.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\bin\Debug\フォームのコントロールの大きさをフォームに合わせる.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\bin\Debug\フォームのコントロールの大きさをフォームに合わせる.pdb
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\bin\Debug\フォームのコントロールの大きさをフォームに合わせる.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\obj\Debug\フォームのコントロールの大きさをフォームに合わせる.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\obj\Debug\フォームのコントロールの大きさをフォームに合わせる.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\obj\Debug\フォームのコントロールの大きさをフォームに合わせる.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\obj\Debug\フォームのコントロールの大きさをフォームに合わせる.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\obj\Debug\フォームのコントロールの大きさをフォームに合わせる.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\obj\Debug\フォームのコントロールの大きさをフォームに合わせる.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\obj\Debug\フォームのコントロールの大きさをフォームに合わせる.pdb
+C:\Users\study\AppData\Local\Temporary Projects\フォームのコントロールの大きさをフォームに合わせる\obj\Debug\フォームのコントロールの大きさをフォームに合わせる.vbprojAssemblyReference.cache
