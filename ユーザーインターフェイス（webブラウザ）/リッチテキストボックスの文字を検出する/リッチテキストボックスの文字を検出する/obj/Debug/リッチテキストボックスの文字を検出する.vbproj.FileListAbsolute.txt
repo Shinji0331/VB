@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\bin\Debug\リッチテキストボックスの文字を検出する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\bin\Debug\リッチテキストボックスの文字を検出する.exe
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\bin\Debug\リッチテキストボックスの文字を検出する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\bin\Debug\リッチテキストボックスの文字を検出する.xml
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\obj\Debug\リッチテキストボックスの文字を検出する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\obj\Debug\リッチテキストボックスの文字を検出する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\obj\Debug\リッチテキストボックスの文字を検出する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\obj\Debug\リッチテキストボックスの文字を検出する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\obj\Debug\リッチテキストボックスの文字を検出する.exe
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\obj\Debug\リッチテキストボックスの文字を検出する.xml
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの文字を検出する\obj\Debug\リッチテキストボックスの文字を検出する.pdb

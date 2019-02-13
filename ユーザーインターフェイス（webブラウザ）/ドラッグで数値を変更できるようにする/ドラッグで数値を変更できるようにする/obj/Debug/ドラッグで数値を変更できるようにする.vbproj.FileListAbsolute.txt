@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\bin\Debug\ドラッグで数値を変更できるようにする.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\bin\Debug\ドラッグで数値を変更できるようにする.exe
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\bin\Debug\ドラッグで数値を変更できるようにする.pdb
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\bin\Debug\ドラッグで数値を変更できるようにする.xml
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\obj\Debug\ドラッグで数値を変更できるようにする.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\obj\Debug\ドラッグで数値を変更できるようにする.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\obj\Debug\ドラッグで数値を変更できるようにする.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\obj\Debug\ドラッグで数値を変更できるようにする.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\obj\Debug\ドラッグで数値を変更できるようにする.exe
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\obj\Debug\ドラッグで数値を変更できるようにする.xml
+C:\Users\study\AppData\Local\Temporary Projects\ドラッグで数値を変更できるようにする\obj\Debug\ドラッグで数値を変更できるようにする.pdb

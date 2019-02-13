@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\bin\Debug\リッチテキストボックスの編集を元に戻す.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\bin\Debug\リッチテキストボックスの編集を元に戻す.exe
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\bin\Debug\リッチテキストボックスの編集を元に戻す.pdb
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\bin\Debug\リッチテキストボックスの編集を元に戻す.xml
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\obj\Debug\リッチテキストボックスの編集を元に戻す.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\obj\Debug\リッチテキストボックスの編集を元に戻す.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\obj\Debug\リッチテキストボックスの編集を元に戻す.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\obj\Debug\リッチテキストボックスの編集を元に戻す.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\obj\Debug\リッチテキストボックスの編集を元に戻す.exe
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\obj\Debug\リッチテキストボックスの編集を元に戻す.xml
+C:\Users\study\AppData\Local\Temporary Projects\リッチテキストボックスの編集を元に戻す\obj\Debug\リッチテキストボックスの編集を元に戻す.pdb
