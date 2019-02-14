@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\obj\Debug\コレクションまたは配列に対して処理を繰り返す.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\obj\Debug\コレクションまたは配列に対して処理を繰り返す.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\obj\Debug\コレクションまたは配列に対して処理を繰り返す.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\obj\Debug\コレクションまたは配列に対して処理を繰り返す.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\bin\Debug\コレクションまたは配列に対して処理を繰り返す.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\bin\Debug\コレクションまたは配列に対して処理を繰り返す.exe
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\bin\Debug\コレクションまたは配列に対して処理を繰り返す.pdb
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\bin\Debug\コレクションまたは配列に対して処理を繰り返す.xml
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\obj\Debug\コレクションまたは配列に対して処理を繰り返す.exe
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\obj\Debug\コレクションまたは配列に対して処理を繰り返す.xml
+C:\Users\study\AppData\Local\Temporary Projects\コレクションまたは配列に対して処理を繰り返す\obj\Debug\コレクションまたは配列に対して処理を繰り返す.pdb
