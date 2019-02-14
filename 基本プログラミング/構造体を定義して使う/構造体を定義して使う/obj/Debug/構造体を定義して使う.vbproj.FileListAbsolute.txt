@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\bin\Debug\構造体を定義して使う.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\bin\Debug\構造体を定義して使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\bin\Debug\構造体を定義して使う.pdb
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\bin\Debug\構造体を定義して使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\obj\Debug\構造体を定義して使う.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\obj\Debug\構造体を定義して使う.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\obj\Debug\構造体を定義して使う.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\obj\Debug\構造体を定義して使う.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\obj\Debug\構造体を定義して使う.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\obj\Debug\構造体を定義して使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\obj\Debug\構造体を定義して使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\構造体を定義して使う\obj\Debug\構造体を定義して使う.pdb

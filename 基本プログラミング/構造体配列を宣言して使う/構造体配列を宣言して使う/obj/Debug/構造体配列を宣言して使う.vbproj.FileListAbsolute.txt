@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\bin\Debug\構造体配列を宣言して使う.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\bin\Debug\構造体配列を宣言して使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\bin\Debug\構造体配列を宣言して使う.pdb
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\bin\Debug\構造体配列を宣言して使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\obj\Debug\構造体配列を宣言して使う.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\obj\Debug\構造体配列を宣言して使う.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\obj\Debug\構造体配列を宣言して使う.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\obj\Debug\構造体配列を宣言して使う.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\obj\Debug\構造体配列を宣言して使う.exe
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\obj\Debug\構造体配列を宣言して使う.xml
+C:\Users\study\AppData\Local\Temporary Projects\構造体配列を宣言して使う\obj\Debug\構造体配列を宣言して使う.pdb

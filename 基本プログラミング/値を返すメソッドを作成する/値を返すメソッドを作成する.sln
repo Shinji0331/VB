@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "値を返すメソッドを作成する", "値を返すメソッドを作成する\値を返すメソッドを作成する.vbproj", "{0EA4BCC9-40BD-48EB-85C9-7EF6D8586287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EA4BCC9-40BD-48EB-85C9-7EF6D8586287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA4BCC9-40BD-48EB-85C9-7EF6D8586287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA4BCC9-40BD-48EB-85C9-7EF6D8586287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA4BCC9-40BD-48EB-85C9-7EF6D8586287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC3CB44-723F-4580-B5D9-4D6F2E8591AA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\bin\Debug\クラスを継承する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\bin\Debug\クラスを継承する.exe
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\bin\Debug\クラスを継承する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\bin\Debug\クラスを継承する.xml
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\obj\Debug\クラスを継承する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\obj\Debug\クラスを継承する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\obj\Debug\クラスを継承する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\obj\Debug\クラスを継承する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\obj\Debug\クラスを継承する.exe
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\obj\Debug\クラスを継承する.xml
+C:\Users\study\AppData\Local\Temporary Projects\クラスを継承する\obj\Debug\クラスを継承する.pdb

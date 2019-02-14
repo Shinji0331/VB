@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\bin\Debug\配列をコピーする.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\bin\Debug\配列をコピーする.exe
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\bin\Debug\配列をコピーする.pdb
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\bin\Debug\配列をコピーする.xml
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\obj\Debug\配列をコピーする.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\obj\Debug\配列をコピーする.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\obj\Debug\配列をコピーする.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\obj\Debug\配列をコピーする.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\obj\Debug\配列をコピーする.exe
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\obj\Debug\配列をコピーする.xml
+C:\Users\study\AppData\Local\Temporary Projects\配列をコピーする\obj\Debug\配列をコピーする.pdb

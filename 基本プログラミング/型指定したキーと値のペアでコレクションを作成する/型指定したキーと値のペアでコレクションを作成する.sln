@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "型指定したキーと値のペアでコレクションを作成する", "型指定したキーと値のペアでコレクションを作成する\型指定したキーと値のペアでコレクションを作成する.vbproj", "{64C00EF8-15D9-4DE5-ACA1-F145568B4FC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C00EF8-15D9-4DE5-ACA1-F145568B4FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C00EF8-15D9-4DE5-ACA1-F145568B4FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C00EF8-15D9-4DE5-ACA1-F145568B4FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C00EF8-15D9-4DE5-ACA1-F145568B4FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1B6C4C-9EC1-45EF-B05B-9FD94E8CFB33}
+	EndGlobalSection
+EndGlobal

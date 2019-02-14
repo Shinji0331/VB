@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\bin\Debug\コレクションから条件にマッチする要素を取り出す.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\bin\Debug\コレクションから条件にマッチする要素を取り出す.exe
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\bin\Debug\コレクションから条件にマッチする要素を取り出す.pdb
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\bin\Debug\コレクションから条件にマッチする要素を取り出す.xml
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\obj\Debug\コレクションから条件にマッチする要素を取り出す.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\obj\Debug\コレクションから条件にマッチする要素を取り出す.MyItem.resources
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\obj\Debug\コレクションから条件にマッチする要素を取り出す.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\obj\Debug\コレクションから条件にマッチする要素を取り出す.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\obj\Debug\コレクションから条件にマッチする要素を取り出す.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\obj\Debug\コレクションから条件にマッチする要素を取り出す.exe
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\obj\Debug\コレクションから条件にマッチする要素を取り出す.xml
+C:\Users\study\AppData\Local\Temporary Projects\コレクションから条件にマッチする要素を取り出す\obj\Debug\コレクションから条件にマッチする要素を取り出す.pdb

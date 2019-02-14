@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "データ型を指定してコレクションを作成する", "データ型を指定してコレクションを作成する\データ型を指定してコレクションを作成する.vbproj", "{30364340-AD39-4A2A-B0FD-EE72EA1AC96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30364340-AD39-4A2A-B0FD-EE72EA1AC96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30364340-AD39-4A2A-B0FD-EE72EA1AC96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30364340-AD39-4A2A-B0FD-EE72EA1AC96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30364340-AD39-4A2A-B0FD-EE72EA1AC96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF4D679-3714-4319-AC78-5920C6C26E5D}
+	EndGlobalSection
+EndGlobal
