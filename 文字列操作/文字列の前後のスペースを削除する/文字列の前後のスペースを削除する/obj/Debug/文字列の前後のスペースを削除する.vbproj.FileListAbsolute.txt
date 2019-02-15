@@ -1,0 +1,12 @@
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\bin\Debug\文字列の前後のスペースを削除する.exe.config
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\bin\Debug\文字列の前後のスペースを削除する.exe
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\bin\Debug\文字列の前後のスペースを削除する.pdb
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\bin\Debug\文字列の前後のスペースを削除する.xml
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\obj\Debug\文字列の前後のスペースを削除する.vbprojAssemblyReference.cache
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\obj\Debug\文字列の前後のスペースを削除する.Form1.resources
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\obj\Debug\文字列の前後のスペースを削除する.Resources.resources
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\obj\Debug\文字列の前後のスペースを削除する.vbproj.GenerateResource.cache
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\obj\Debug\文字列の前後のスペースを削除する.vbproj.CoreCompileInputs.cache
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\obj\Debug\文字列の前後のスペースを削除する.exe
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\obj\Debug\文字列の前後のスペースを削除する.xml
+C:\Users\study\Desktop\VB\文字列操作\文字列の前後のスペースを削除する\文字列の前後のスペースを削除する\obj\Debug\文字列の前後のスペースを削除する.pdb

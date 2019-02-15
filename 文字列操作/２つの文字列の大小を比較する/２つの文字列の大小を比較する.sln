@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "２つの文字列の大小を比較する", "２つの文字列の大小を比較する\２つの文字列の大小を比較する.vbproj", "{3755704D-A07C-48A7-85CE-6BAE15167D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3755704D-A07C-48A7-85CE-6BAE15167D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3755704D-A07C-48A7-85CE-6BAE15167D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3755704D-A07C-48A7-85CE-6BAE15167D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3755704D-A07C-48A7-85CE-6BAE15167D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D200610-C464-4C34-9737-9FBF25811706}
+	EndGlobalSection
+EndGlobal

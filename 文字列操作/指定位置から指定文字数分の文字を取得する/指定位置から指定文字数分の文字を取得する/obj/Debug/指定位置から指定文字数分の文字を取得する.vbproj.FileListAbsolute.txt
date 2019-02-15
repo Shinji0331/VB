@@ -9,3 +9,15 @@ C:\Users\study\AppData\Local\Temporary Projects\指定位置から指定文字�
 C:\Users\study\AppData\Local\Temporary Projects\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.exe
 C:\Users\study\AppData\Local\Temporary Projects\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.xml
 C:\Users\study\AppData\Local\Temporary Projects\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.pdb
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\bin\Debug\指定位置から指定文字数分の文字を取得する.exe.config
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\bin\Debug\指定位置から指定文字数分の文字を取得する.exe
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\bin\Debug\指定位置から指定文字数分の文字を取得する.pdb
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\bin\Debug\指定位置から指定文字数分の文字を取得する.xml
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.vbprojAssemblyReference.cache
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.Form1.resources
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.Resources.resources
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.vbproj.GenerateResource.cache
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.vbproj.CoreCompileInputs.cache
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.exe
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.xml
+C:\Users\study\Desktop\VB\文字列操作\指定位置から指定文字数分の文字を取得する\指定位置から指定文字数分の文字を取得する\obj\Debug\指定位置から指定文字数分の文字を取得する.pdb

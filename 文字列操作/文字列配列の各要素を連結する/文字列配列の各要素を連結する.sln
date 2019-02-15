@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "文字列配列の各要素を連結する", "文字列配列の各要素を連結する\文字列配列の各要素を連結する.vbproj", "{9225641E-1CF2-4226-A189-34092FDDE923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9225641E-1CF2-4226-A189-34092FDDE923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9225641E-1CF2-4226-A189-34092FDDE923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9225641E-1CF2-4226-A189-34092FDDE923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9225641E-1CF2-4226-A189-34092FDDE923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9958C23B-6205-4B97-83C5-5B62A26176DC}
+	EndGlobalSection
+EndGlobal

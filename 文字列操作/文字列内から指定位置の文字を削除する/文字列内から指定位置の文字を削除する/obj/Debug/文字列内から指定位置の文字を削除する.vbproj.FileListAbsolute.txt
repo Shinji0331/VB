@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\bin\Debug\文字列内から指定位置の文字を削除する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\bin\Debug\文字列内から指定位置の文字を削除する.exe
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\bin\Debug\文字列内から指定位置の文字を削除する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\bin\Debug\文字列内から指定位置の文字を削除する.xml
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\obj\Debug\文字列内から指定位置の文字を削除する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\obj\Debug\文字列内から指定位置の文字を削除する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\obj\Debug\文字列内から指定位置の文字を削除する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\obj\Debug\文字列内から指定位置の文字を削除する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\obj\Debug\文字列内から指定位置の文字を削除する.exe
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\obj\Debug\文字列内から指定位置の文字を削除する.xml
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定位置の文字を削除する\obj\Debug\文字列内から指定位置の文字を削除する.pdb

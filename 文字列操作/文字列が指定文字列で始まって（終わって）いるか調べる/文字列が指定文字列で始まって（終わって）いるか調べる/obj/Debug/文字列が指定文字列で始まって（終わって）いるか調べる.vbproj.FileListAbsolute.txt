@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\bin\Debug\文字列が指定文字列で始まって（終わって）いるか調べる.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\bin\Debug\文字列が指定文字列で始まって（終わって）いるか調べる.exe
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\bin\Debug\文字列が指定文字列で始まって（終わって）いるか調べる.pdb
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\bin\Debug\文字列が指定文字列で始まって（終わって）いるか調べる.xml
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\obj\Debug\文字列が指定文字列で始まって_終わって_いるか調べる.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\obj\Debug\文字列が指定文字列で始まって_終わって_いるか調べる.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\obj\Debug\文字列が指定文字列で始まって（終わって）いるか調べる.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\obj\Debug\文字列が指定文字列で始まって（終わって）いるか調べる.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\obj\Debug\文字列が指定文字列で始まって（終わって）いるか調べる.exe
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\obj\Debug\文字列が指定文字列で始まって（終わって）いるか調べる.xml
+C:\Users\study\AppData\Local\Temporary Projects\文字列が指定文字列で始まって（終わって）いるか調べる\obj\Debug\文字列が指定文字列で始まって（終わって）いるか調べる.pdb

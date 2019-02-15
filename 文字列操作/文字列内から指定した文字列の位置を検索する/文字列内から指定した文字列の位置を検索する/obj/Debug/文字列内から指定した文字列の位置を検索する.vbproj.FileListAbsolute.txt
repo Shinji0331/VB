@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\bin\Debug\文字列内から指定した文字列の位置を検索する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\bin\Debug\文字列内から指定した文字列の位置を検索する.exe
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\bin\Debug\文字列内から指定した文字列の位置を検索する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\bin\Debug\文字列内から指定した文字列の位置を検索する.xml
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\obj\Debug\文字列内から指定した文字列の位置を検索する.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\obj\Debug\文字列内から指定した文字列の位置を検索する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\obj\Debug\文字列内から指定した文字列の位置を検索する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\obj\Debug\文字列内から指定した文字列の位置を検索する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\obj\Debug\文字列内から指定した文字列の位置を検索する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\obj\Debug\文字列内から指定した文字列の位置を検索する.exe
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\obj\Debug\文字列内から指定した文字列の位置を検索する.xml
+C:\Users\study\AppData\Local\Temporary Projects\文字列内から指定した文字列の位置を検索する\obj\Debug\文字列内から指定した文字列の位置を検索する.pdb
