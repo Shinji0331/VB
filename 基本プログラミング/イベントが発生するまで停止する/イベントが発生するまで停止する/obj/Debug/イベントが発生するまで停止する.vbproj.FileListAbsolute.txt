@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\bin\Debug\イベントが発生するまで停止する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\bin\Debug\イベントが発生するまで停止する.exe
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\bin\Debug\イベントが発生するまで停止する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\bin\Debug\イベントが発生するまで停止する.xml
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\obj\Debug\イベントが発生するまで停止する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\obj\Debug\イベントが発生するまで停止する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\obj\Debug\イベントが発生するまで停止する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\obj\Debug\イベントが発生するまで停止する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\obj\Debug\イベントが発生するまで停止する.exe
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\obj\Debug\イベントが発生するまで停止する.xml
+C:\Users\study\AppData\Local\Temporary Projects\イベントが発生するまで停止する\obj\Debug\イベントが発生するまで停止する.pdb

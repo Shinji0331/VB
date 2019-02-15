@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\bin\Debug\複数のタスクの実行を待つ.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\bin\Debug\複数のタスクの実行を待つ.exe
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\bin\Debug\複数のタスクの実行を待つ.pdb
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\bin\Debug\複数のタスクの実行を待つ.xml
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\obj\Debug\複数のタスクの実行を待つ.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\obj\Debug\複数のタスクの実行を待つ.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\obj\Debug\複数のタスクの実行を待つ.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\obj\Debug\複数のタスクの実行を待つ.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\obj\Debug\複数のタスクの実行を待つ.exe
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\obj\Debug\複数のタスクの実行を待つ.xml
+C:\Users\study\AppData\Local\Temporary Projects\複数のタスクの実行を待つ\obj\Debug\複数のタスクの実行を待つ.pdb

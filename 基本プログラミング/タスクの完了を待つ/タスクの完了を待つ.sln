@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "タスクの完了を待つ", "タスクの完了を待つ\タスクの完了を待つ.vbproj", "{15ADC49F-AC2D-4EF4-BAE6-31911ED8A649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15ADC49F-AC2D-4EF4-BAE6-31911ED8A649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ADC49F-AC2D-4EF4-BAE6-31911ED8A649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ADC49F-AC2D-4EF4-BAE6-31911ED8A649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ADC49F-AC2D-4EF4-BAE6-31911ED8A649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97762FB6-12C9-43CC-B4BA-B896CA7816E0}
+	EndGlobalSection
+EndGlobal

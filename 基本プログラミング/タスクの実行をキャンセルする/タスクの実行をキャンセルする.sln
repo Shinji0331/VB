@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "タスクの実行をキャンセルする", "タスクの実行をキャンセルする\タスクの実行をキャンセルする.vbproj", "{A319D768-F57B-4045-8798-B6F3A1593707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A319D768-F57B-4045-8798-B6F3A1593707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A319D768-F57B-4045-8798-B6F3A1593707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A319D768-F57B-4045-8798-B6F3A1593707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A319D768-F57B-4045-8798-B6F3A1593707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8927A770-B9F2-4456-98C9-DD4D3F8A8D07}
+	EndGlobalSection
+EndGlobal

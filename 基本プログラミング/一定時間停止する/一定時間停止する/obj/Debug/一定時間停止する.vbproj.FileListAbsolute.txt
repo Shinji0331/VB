@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\bin\Debug\一定時間停止する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\bin\Debug\一定時間停止する.exe
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\bin\Debug\一定時間停止する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\bin\Debug\一定時間停止する.xml
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\obj\Debug\一定時間停止する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\obj\Debug\一定時間停止する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\obj\Debug\一定時間停止する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\obj\Debug\一定時間停止する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\obj\Debug\一定時間停止する.exe
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\obj\Debug\一定時間停止する.xml
+C:\Users\study\AppData\Local\Temporary Projects\一定時間停止する\obj\Debug\一定時間停止する.pdb

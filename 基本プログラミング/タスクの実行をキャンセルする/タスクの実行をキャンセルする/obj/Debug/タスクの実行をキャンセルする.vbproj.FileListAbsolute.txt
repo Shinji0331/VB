@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\bin\Debug\タスクの実行をキャンセルする.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\bin\Debug\タスクの実行をキャンセルする.exe
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\bin\Debug\タスクの実行をキャンセルする.pdb
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\bin\Debug\タスクの実行をキャンセルする.xml
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\obj\Debug\タスクの実行をキャンセルする.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\obj\Debug\タスクの実行をキャンセルする.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\obj\Debug\タスクの実行をキャンセルする.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\obj\Debug\タスクの実行をキャンセルする.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\obj\Debug\タスクの実行をキャンセルする.exe
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\obj\Debug\タスクの実行をキャンセルする.xml
+C:\Users\study\AppData\Local\Temporary Projects\タスクの実行をキャンセルする\obj\Debug\タスクの実行をキャンセルする.pdb

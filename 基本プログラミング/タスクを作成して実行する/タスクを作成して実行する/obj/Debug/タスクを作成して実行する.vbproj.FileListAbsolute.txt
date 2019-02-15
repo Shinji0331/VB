@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\bin\Debug\タスクを作成して実行する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\bin\Debug\タスクを作成して実行する.exe
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\bin\Debug\タスクを作成して実行する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\bin\Debug\タスクを作成して実行する.xml
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\obj\Debug\タスクを作成して実行する.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\obj\Debug\タスクを作成して実行する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\obj\Debug\タスクを作成して実行する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\obj\Debug\タスクを作成して実行する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\obj\Debug\タスクを作成して実行する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\obj\Debug\タスクを作成して実行する.exe
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\obj\Debug\タスクを作成して実行する.xml
+C:\Users\study\AppData\Local\Temporary Projects\タスクを作成して実行する\obj\Debug\タスクを作成して実行する.pdb
