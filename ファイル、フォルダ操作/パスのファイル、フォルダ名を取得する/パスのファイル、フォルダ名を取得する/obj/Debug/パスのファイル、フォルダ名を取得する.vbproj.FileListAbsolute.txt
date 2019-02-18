@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\bin\Debug\パスのファイル、フォルダ名を取得する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\bin\Debug\パスのファイル、フォルダ名を取得する.exe
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\bin\Debug\パスのファイル、フォルダ名を取得する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\bin\Debug\パスのファイル、フォルダ名を取得する.xml
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\obj\Debug\パスのファイル_フォルダ名を取得する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\obj\Debug\パスのファイル_フォルダ名を取得する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\obj\Debug\パスのファイル、フォルダ名を取得する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\obj\Debug\パスのファイル、フォルダ名を取得する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\obj\Debug\パスのファイル、フォルダ名を取得する.exe
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\obj\Debug\パスのファイル、フォルダ名を取得する.xml
+C:\Users\study\AppData\Local\Temporary Projects\パスのファイル、フォルダ名を取得する\obj\Debug\パスのファイル、フォルダ名を取得する.pdb

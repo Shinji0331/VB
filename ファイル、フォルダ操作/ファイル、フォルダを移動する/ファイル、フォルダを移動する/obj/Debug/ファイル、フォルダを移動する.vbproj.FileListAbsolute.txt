@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\bin\Debug\ファイル、フォルダを移動する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\bin\Debug\ファイル、フォルダを移動する.exe
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\bin\Debug\ファイル、フォルダを移動する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\bin\Debug\ファイル、フォルダを移動する.xml
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\obj\Debug\ファイル、フォルダを移動する.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\obj\Debug\ファイル_フォルダを移動する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\obj\Debug\ファイル_フォルダを移動する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\obj\Debug\ファイル、フォルダを移動する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\obj\Debug\ファイル、フォルダを移動する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\obj\Debug\ファイル、フォルダを移動する.exe
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\obj\Debug\ファイル、フォルダを移動する.xml
+C:\Users\study\AppData\Local\Temporary Projects\ファイル、フォルダを移動する\obj\Debug\ファイル、フォルダを移動する.pdb

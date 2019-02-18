@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\bin\Debug\ファイルをコピーする.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\bin\Debug\ファイルをコピーする.exe
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\bin\Debug\ファイルをコピーする.pdb
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\bin\Debug\ファイルをコピーする.xml
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\obj\Debug\ファイルをコピーする.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\obj\Debug\ファイルをコピーする.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\obj\Debug\ファイルをコピーする.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\obj\Debug\ファイルをコピーする.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\obj\Debug\ファイルをコピーする.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\obj\Debug\ファイルをコピーする.exe
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\obj\Debug\ファイルをコピーする.xml
+C:\Users\study\AppData\Local\Temporary Projects\ファイルをコピーする\obj\Debug\ファイルをコピーする.pdb
