@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\bin\Debug\フォントを設定するダイアログボックスを表示する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\bin\Debug\フォントを設定するダイアログボックスを表示する.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\bin\Debug\フォントを設定するダイアログボックスを表示する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\bin\Debug\フォントを設定するダイアログボックスを表示する.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\obj\Debug\フォントを設定するダイアログボックスを表示する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\obj\Debug\フォントを設定するダイアログボックスを表示する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\obj\Debug\フォントを設定するダイアログボックスを表示する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\obj\Debug\フォントを設定するダイアログボックスを表示する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\obj\Debug\フォントを設定するダイアログボックスを表示する.exe
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\obj\Debug\フォントを設定するダイアログボックスを表示する.xml
+C:\Users\study\AppData\Local\Temporary Projects\フォントを設定するダイアログボックスを表示する\obj\Debug\フォントを設定するダイアログボックスを表示する.pdb

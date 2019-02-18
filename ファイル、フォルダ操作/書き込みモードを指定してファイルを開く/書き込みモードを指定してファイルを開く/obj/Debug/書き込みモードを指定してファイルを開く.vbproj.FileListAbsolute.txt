@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\bin\Debug\書き込みモードを指定してファイルを開く.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\bin\Debug\書き込みモードを指定してファイルを開く.exe
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\bin\Debug\書き込みモードを指定してファイルを開く.pdb
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\bin\Debug\書き込みモードを指定してファイルを開く.xml
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\obj\Debug\書き込みモードを指定してファイルを開く.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\obj\Debug\書き込みモードを指定してファイルを開く.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\obj\Debug\書き込みモードを指定してファイルを開く.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\obj\Debug\書き込みモードを指定してファイルを開く.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\obj\Debug\書き込みモードを指定してファイルを開く.exe
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\obj\Debug\書き込みモードを指定してファイルを開く.xml
+C:\Users\study\AppData\Local\Temporary Projects\書き込みモードを指定してファイルを開く\obj\Debug\書き込みモードを指定してファイルを開く.pdb

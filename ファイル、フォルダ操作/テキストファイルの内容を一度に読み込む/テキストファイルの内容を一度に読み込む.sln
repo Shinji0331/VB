@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "テキストファイルの内容を一度に読み込む", "テキストファイルの内容を一度に読み込む\テキストファイルの内容を一度に読み込む.vbproj", "{968060F0-6E04-47AA-8019-0BACB03F4897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{968060F0-6E04-47AA-8019-0BACB03F4897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968060F0-6E04-47AA-8019-0BACB03F4897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968060F0-6E04-47AA-8019-0BACB03F4897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968060F0-6E04-47AA-8019-0BACB03F4897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BCF17C1-4B1A-4D85-BC4D-05B54886A5F9}
+	EndGlobalSection
+EndGlobal

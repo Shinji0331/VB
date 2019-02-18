@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "フォントを設定するダイアログボックスを表示する", "フォントを設定するダイアログボックスを表示する\フォントを設定するダイアログボックスを表示する.vbproj", "{B5EF33F9-7355-4AF3-BB2A-B3001CE1A083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EF33F9-7355-4AF3-BB2A-B3001CE1A083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EF33F9-7355-4AF3-BB2A-B3001CE1A083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EF33F9-7355-4AF3-BB2A-B3001CE1A083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EF33F9-7355-4AF3-BB2A-B3001CE1A083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC891EE-0CFB-4B05-931A-E53138CDCDC4}
+	EndGlobalSection
+EndGlobal

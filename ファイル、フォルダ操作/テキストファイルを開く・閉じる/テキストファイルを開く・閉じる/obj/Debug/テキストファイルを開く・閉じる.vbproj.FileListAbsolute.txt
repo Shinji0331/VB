@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\bin\Debug\テキストファイルを開く・閉じる.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\bin\Debug\テキストファイルを開く・閉じる.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\bin\Debug\テキストファイルを開く・閉じる.pdb
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\bin\Debug\テキストファイルを開く・閉じる.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\obj\Debug\テキストファイルを開く_閉じる.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\obj\Debug\テキストファイルを開く_閉じる.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\obj\Debug\テキストファイルを開く・閉じる.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\obj\Debug\テキストファイルを開く・閉じる.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\obj\Debug\テキストファイルを開く・閉じる.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\obj\Debug\テキストファイルを開く・閉じる.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルを開く・閉じる\obj\Debug\テキストファイルを開く・閉じる.pdb

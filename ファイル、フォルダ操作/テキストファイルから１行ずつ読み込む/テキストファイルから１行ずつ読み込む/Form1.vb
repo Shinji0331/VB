@@ -1,0 +1,19 @@
+﻿Imports System.IO
+
+Public Class Form1
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim path = TextBox1.Text
+        If File.Exists(path) = False Then
+            MessageBox.Show("ファイルがみつかりません", "通知")
+            Return
+        End If
+        ListBox1.Items.Clear()
+        Using st = New StreamReader(path)
+            Dim line = st.ReadLine()
+            While line IsNot Nothing
+                ListBox1.Items.Add(line)
+                line = st.ReadLine()
+            End While
+        End Using
+    End Sub
+End Class

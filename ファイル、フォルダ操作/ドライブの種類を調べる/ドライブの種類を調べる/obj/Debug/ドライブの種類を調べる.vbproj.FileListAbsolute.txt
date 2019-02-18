@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\bin\Debug\ドライブの種類を調べる.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\bin\Debug\ドライブの種類を調べる.exe
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\bin\Debug\ドライブの種類を調べる.pdb
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\bin\Debug\ドライブの種類を調べる.xml
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\obj\Debug\ドライブの種類を調べる.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\obj\Debug\ドライブの種類を調べる.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\obj\Debug\ドライブの種類を調べる.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\obj\Debug\ドライブの種類を調べる.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\obj\Debug\ドライブの種類を調べる.exe
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\obj\Debug\ドライブの種類を調べる.xml
+C:\Users\study\AppData\Local\Temporary Projects\ドライブの種類を調べる\obj\Debug\ドライブの種類を調べる.pdb

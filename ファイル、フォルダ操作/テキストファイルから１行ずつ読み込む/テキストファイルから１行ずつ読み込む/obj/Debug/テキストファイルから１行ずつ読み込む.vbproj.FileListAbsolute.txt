@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\bin\Debug\テキストファイルから１行ずつ読み込む.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\bin\Debug\テキストファイルから１行ずつ読み込む.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\bin\Debug\テキストファイルから１行ずつ読み込む.pdb
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\bin\Debug\テキストファイルから１行ずつ読み込む.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\obj\Debug\テキストファイルから１行ずつ読み込む.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\obj\Debug\テキストファイルから１行ずつ読み込む.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\obj\Debug\テキストファイルから１行ずつ読み込む.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\obj\Debug\テキストファイルから１行ずつ読み込む.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\obj\Debug\テキストファイルから１行ずつ読み込む.exe
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\obj\Debug\テキストファイルから１行ずつ読み込む.xml
+C:\Users\study\AppData\Local\Temporary Projects\テキストファイルから１行ずつ読み込む\obj\Debug\テキストファイルから１行ずつ読み込む.pdb
