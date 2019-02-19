@@ -1,0 +1,4 @@
+C:\Users\study\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache

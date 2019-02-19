@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\bin\Debug\LINQを使ってみる.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\bin\Debug\LINQを使ってみる.exe
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\bin\Debug\LINQを使ってみる.pdb
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\bin\Debug\LINQを使ってみる.xml
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\obj\Debug\LINQを使ってみる.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\obj\Debug\LINQを使ってみる.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\obj\Debug\LINQを使ってみる.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\obj\Debug\LINQを使ってみる.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\obj\Debug\LINQを使ってみる.exe
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\obj\Debug\LINQを使ってみる.xml
+C:\Users\study\AppData\Local\Temporary Projects\LINQを使ってみる\obj\Debug\LINQを使ってみる.pdb

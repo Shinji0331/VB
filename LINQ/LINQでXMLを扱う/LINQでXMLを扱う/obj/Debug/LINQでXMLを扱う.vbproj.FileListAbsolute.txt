@@ -1,0 +1,11 @@
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\bin\Debug\LINQでXMLを扱う.exe.config
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\bin\Debug\LINQでXMLを扱う.exe
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\bin\Debug\LINQでXMLを扱う.pdb
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\bin\Debug\LINQでXMLを扱う.xml
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\obj\Debug\LINQでXMLを扱う.Form1.resources
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\obj\Debug\LINQでXMLを扱う.Resources.resources
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\obj\Debug\LINQでXMLを扱う.vbproj.GenerateResource.cache
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\obj\Debug\LINQでXMLを扱う.vbproj.CoreCompileInputs.cache
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\obj\Debug\LINQでXMLを扱う.exe
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\obj\Debug\LINQでXMLを扱う.xml
+C:\Users\study\Desktop\VB\LINQ\LINQでXMLを扱う\LINQでXMLを扱う\obj\Debug\LINQでXMLを扱う.pdb
