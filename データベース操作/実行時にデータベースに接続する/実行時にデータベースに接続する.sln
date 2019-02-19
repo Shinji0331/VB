@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "実行時にデータベースに接続する", "実行時にデータベースに接続する\実行時にデータベースに接続する.vbproj", "{FA19A755-247F-4F5A-A2AA-F1102C8D26D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA19A755-247F-4F5A-A2AA-F1102C8D26D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA19A755-247F-4F5A-A2AA-F1102C8D26D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA19A755-247F-4F5A-A2AA-F1102C8D26D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA19A755-247F-4F5A-A2AA-F1102C8D26D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {832DABF8-771A-4A24-B580-8C00C9BEFFA7}
+	EndGlobalSection
+EndGlobal
