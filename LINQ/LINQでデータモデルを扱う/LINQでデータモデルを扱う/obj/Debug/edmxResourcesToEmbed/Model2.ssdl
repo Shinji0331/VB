@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VBlessonModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--生成中に見つかったエラー:
+警告 6013: テーブル/ビュー 'VBlesson.dbo.商品' に主キーが定義されておらず、有効な主キーを推論できませんでした。このテーブル/ビューは除外されました。エンティティを使用するには、スキーマを確認し、正しいキーを追加して、コメントを解除する必要があります。
+        <EntityType Name="商品">
+          <Property Name="Id" Type="int" />
+          <Property Name="商品名" Type="ntext" />
+          <Property Name="単価" Type="int" />
+        </EntityType>-->
+  <EntityContainer Name="VBlessonModel1StoreContainer" />
+</Schema>

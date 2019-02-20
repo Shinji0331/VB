@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VBlessonModel2StoreContainer" CdmEntityContainer="VBlessonEntities2">
+    <EntitySetMapping Name="商品">
+      <EntityTypeMapping TypeName="VBlessonModel2.商品">
+        <MappingFragment StoreEntitySet="商品">
+          <ScalarProperty Name="Iｄ" ColumnName="Iｄ" />
+          <ScalarProperty Name="商品名" ColumnName="商品名" />
+          <ScalarProperty Name="単価" ColumnName="単価" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

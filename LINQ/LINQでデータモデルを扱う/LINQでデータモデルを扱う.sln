@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LINQでデータモデルを扱う", "LINQでデータモデルを扱う\LINQでデータモデルを扱う.vbproj", "{E2024AB8-CBBC-4C33-A895-9C1230F1A327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2024AB8-CBBC-4C33-A895-9C1230F1A327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2024AB8-CBBC-4C33-A895-9C1230F1A327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2024AB8-CBBC-4C33-A895-9C1230F1A327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2024AB8-CBBC-4C33-A895-9C1230F1A327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A17CF35-CC70-429D-A945-AFC8C9666068}
+	EndGlobalSection
+EndGlobal

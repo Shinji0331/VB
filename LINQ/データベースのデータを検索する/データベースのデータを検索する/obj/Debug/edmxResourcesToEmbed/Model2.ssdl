@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VBlessonModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="商品">
+    <Key>
+      <PropertyRef Name="Iｄ" />
+    </Key>
+    <Property Name="Iｄ" Type="int" Nullable="false" />
+    <Property Name="商品名" Type="varchar" MaxLength="50" />
+    <Property Name="単価" Type="int" />
+  </EntityType>
+  <EntityContainer Name="VBlessonModel1StoreContainer">
+    <EntitySet Name="商品" EntityType="Self.商品" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

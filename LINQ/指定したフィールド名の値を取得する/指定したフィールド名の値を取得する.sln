@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "指定したフィールド名の値を取得する", "指定したフィールド名の値を取得する\指定したフィールド名の値を取得する.vbproj", "{6FAC2709-75E7-4D50-BB26-47810018917D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FAC2709-75E7-4D50-BB26-47810018917D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAC2709-75E7-4D50-BB26-47810018917D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAC2709-75E7-4D50-BB26-47810018917D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAC2709-75E7-4D50-BB26-47810018917D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2241B25D-BEA7-4B74-9C63-DDD528586A73}
+	EndGlobalSection
+EndGlobal
