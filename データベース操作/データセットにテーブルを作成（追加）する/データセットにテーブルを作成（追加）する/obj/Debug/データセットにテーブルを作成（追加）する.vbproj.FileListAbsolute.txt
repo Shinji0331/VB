@@ -1,0 +1,12 @@
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\bin\Debug\データセットにテーブルを作成（追加）する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\bin\Debug\データセットにテーブルを作成（追加）する.exe
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\bin\Debug\データセットにテーブルを作成（追加）する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\bin\Debug\データセットにテーブルを作成（追加）する.xml
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\obj\Debug\データセットにテーブルを作成（追加）する.vbprojAssemblyReference.cache
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\obj\Debug\データセットにテーブルを作成_追加_する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\obj\Debug\データセットにテーブルを作成_追加_する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\obj\Debug\データセットにテーブルを作成（追加）する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\obj\Debug\データセットにテーブルを作成（追加）する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\obj\Debug\データセットにテーブルを作成（追加）する.exe
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\obj\Debug\データセットにテーブルを作成（追加）する.xml
+C:\Users\study\AppData\Local\Temporary Projects\データセットにテーブルを作成（追加）する\obj\Debug\データセットにテーブルを作成（追加）する.pdb

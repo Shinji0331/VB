@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\bin\Debug\DataGridViewコントロールに行ヘッダーを表示しない.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\bin\Debug\DataGridViewコントロールに行ヘッダーを表示しない.exe
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\bin\Debug\DataGridViewコントロールに行ヘッダーを表示しない.pdb
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\bin\Debug\DataGridViewコントロールに行ヘッダーを表示しない.xml
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\obj\Debug\DataGridViewコントロールに行ヘッダーを表示しない.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\obj\Debug\DataGridViewコントロールに行ヘッダーを表示しない.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\obj\Debug\DataGridViewコントロールに行ヘッダーを表示しない.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\obj\Debug\DataGridViewコントロールに行ヘッダーを表示しない.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\obj\Debug\DataGridViewコントロールに行ヘッダーを表示しない.exe
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\obj\Debug\DataGridViewコントロールに行ヘッダーを表示しない.xml
+C:\Users\study\AppData\Local\Temporary Projects\DataGridViewコントロールに行ヘッダーを表示しない\obj\Debug\DataGridViewコントロールに行ヘッダーを表示しない.pdb

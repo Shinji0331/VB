@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "トランザクションを適用する", "トランザクションを適用する\トランザクションを適用する.vbproj", "{2C6176BD-5A15-4C83-880A-B3E4F1133821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6176BD-5A15-4C83-880A-B3E4F1133821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6176BD-5A15-4C83-880A-B3E4F1133821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6176BD-5A15-4C83-880A-B3E4F1133821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6176BD-5A15-4C83-880A-B3E4F1133821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E00135-EDE7-4969-823C-34F0C45F7ED3}
+	EndGlobalSection
+EndGlobal

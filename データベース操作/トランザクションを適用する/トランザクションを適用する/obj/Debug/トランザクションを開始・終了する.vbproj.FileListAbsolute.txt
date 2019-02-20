@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\bin\Debug\トランザクションを開始・終了する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\bin\Debug\トランザクションを開始・終了する.exe
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\bin\Debug\トランザクションを開始・終了する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\bin\Debug\トランザクションを開始・終了する.xml
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\obj\Debug\トランザクションを開始_終了する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\obj\Debug\トランザクションを開始_終了する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\obj\Debug\トランザクションを開始・終了する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\obj\Debug\トランザクションを開始・終了する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\obj\Debug\トランザクションを開始・終了する.exe
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\obj\Debug\トランザクションを開始・終了する.xml
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを開始・終了する\obj\Debug\トランザクションを開始・終了する.pdb

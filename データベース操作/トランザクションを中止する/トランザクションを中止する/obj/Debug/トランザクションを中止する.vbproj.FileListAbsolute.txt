@@ -1,0 +1,11 @@
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\bin\Debug\トランザクションを中止する.exe.config
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\bin\Debug\トランザクションを中止する.exe
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\bin\Debug\トランザクションを中止する.pdb
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\bin\Debug\トランザクションを中止する.xml
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\obj\Debug\トランザクションを中止する.Form1.resources
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\obj\Debug\トランザクションを中止する.Resources.resources
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\obj\Debug\トランザクションを中止する.vbproj.GenerateResource.cache
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\obj\Debug\トランザクションを中止する.vbproj.CoreCompileInputs.cache
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\obj\Debug\トランザクションを中止する.exe
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\obj\Debug\トランザクションを中止する.xml
+C:\Users\study\AppData\Local\Temporary Projects\トランザクションを中止する\obj\Debug\トランザクションを中止する.pdb
